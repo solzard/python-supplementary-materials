@@ -2,12 +2,13 @@
 
 NOTICE: **当repoは作成途中であり不完全です。フォルダ構成などは変更の可能性があります**
 
-TODO: プログラミングの一般用語、Python用語、Minecraft機能の解説を個別ページに分離する
-TODO: 分離の粒度を整える
-TODO: 各解説の相互リンクを貼る
+TODOs:
 
-- Build a static website
-- Relative links between markdowns
+- プログラミングの一般用語、Python用語、Minecraft機能の解説を個別ページに分離する
+- 分離の粒度を整える
+- 各解説の相互リンクを貼る
+  - Build a static website
+  - Relative links between markdowns
 
 ---
 
