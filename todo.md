@@ -31,7 +31,6 @@
 
 ## `mcpi` features
 
-- `mc.player.getTilePos()`
 - `mc.setBlock()`
 - `mc.getBlock()`
 
