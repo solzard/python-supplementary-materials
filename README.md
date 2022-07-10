@@ -10,6 +10,11 @@ TODOs:
   - Build a static website
   - Relative links between markdowns
 
+関連ページ:
+
+- [プログラミング用語解説](./programming-terms.md)
+- [Python用語解説](./python-terms.md)
+
 ---
 
 ## 基礎用語解説
